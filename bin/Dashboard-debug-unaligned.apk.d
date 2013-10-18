@@ -2,6 +2,7 @@
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/bin/Dashboard.ap_ \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/bin/classes.dex \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/libs/CWAC-Task.jar \
+/Users/JustinNguyen/adt-bundle-mac-x86_64-20130219/sdk/tools/support/annotations.jar \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/libs/tagsoup-1.2.1.jar \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/libs/CWAC-AdapterWrapper.jar \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/libs/httpmime-4.1.2.jar \

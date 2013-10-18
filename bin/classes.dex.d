@@ -409,6 +409,7 @@
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/bin/classes/org/xmlrpc/android/XMLRPCFault.class \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/bin/classes/org/xmlrpc/android/XMLRPCSerializer.class \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/bin/dexedLibs/CWAC-Task-61c7df432866dc3a1ae954f9a7f6c5ee.jar \
+/Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/bin/dexedLibs/annotations-9f4b2fdf7b28a566b53c05adb06079d7.jar \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/bin/dexedLibs/tagsoup-1.2.1-697f80e93352abad11ebf225340fd77e.jar \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/bin/dexedLibs/CWAC-AdapterWrapper-93cb1e29de471256f627762725e46057.jar \
 /Users/JustinNguyen/Documents/CruiseControliOS/android_source/2.2.7/bin/dexedLibs/httpmime-4.1.2-adb3c079ac413eff54051975a46d1b70.jar \
